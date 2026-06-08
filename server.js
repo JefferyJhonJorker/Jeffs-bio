@@ -42,10 +42,7 @@ app.get('/', async (req, res) => {
 
     const text = await response.text();
 
-    res.send(`
-      <h2>API Response</h2>
-      <pre>${text}</pre>
-    `);
+    res.send(text);
 
   } catch (err) {
     res.status(500).send(`
