@@ -1,1 +1,2 @@
 I just like to make some little things called scripts, im learning Lua/Luau and I'd like to learn some more languages
+i also run a discord about making software, weather it be cheats or just overall little things, you can join here -> https://discord.gg/zkfKxs4FYd and i sell cheats, im trying to learn how to make them so it would be nice if anyone were to teach me, you can buy here https://jeffs-software.sellauth.com/ (these arent mine im reselling rn)
